@@ -1,3 +1,4 @@
+##zscore_meta
 This is a R function to perform a Zscore meta genome wide association analysis. It was designed to work on the output of summary statistics from the GCTA software. It can also work on any summary statistics with the following column 
 names (in any order): Chr, SNP, bp, b and p. The input of this function is the summary statistics from the various GWAS and their sample size (in the same order).
 
